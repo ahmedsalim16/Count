@@ -71,7 +71,7 @@
     width: 300px;
     position: absolute;
     right:200px;
-
+    bottom: 0;
     animation: rocket 3s  linear infinite;
 }
 @keyframes rocket {
